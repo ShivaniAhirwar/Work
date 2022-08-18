@@ -8,5 +8,7 @@ public class SampleTest
 		System.out.println("project..........");
 		System.out.println("pratice is must to improve ourself");	
 		System.out.println("details of the jenkins");
+	    
+	    System.out.println("science ");
 	}
 }
